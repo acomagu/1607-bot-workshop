@@ -26,12 +26,12 @@ func main() {
     //router.LoadHTMLGlob("templates/*.tmpl.html")
     //router.Static("/static", "static")
 
-    router.GET("/", func(c *gin.Context) {
-        c.HTML(http.StatusOK, "index.tmpl.html", nil)
-    })
+    //router.GET("/", func(c *gin.Context) {
+    //    c.HTML(http.StatusOK, "index.tmpl.html", nil)
+    //})
 
     //この処理を追記
-    router.POST("/callback", func(c *gin.Context) {
+    router.POST("linebot/callback", func(c *gin.Context) {
         proxyURL, _ := url.Parse(os.Getenv("proxyURL"))
         client := &http.Client{
             Transport: &http.Transport{Proxy: http.ProxyURL(proxyURL)},
