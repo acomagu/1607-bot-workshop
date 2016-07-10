@@ -12,7 +12,10 @@ import (
 )
 
 func main() {
-    port := os.Getenv("PORT")
+	port := os.Getenv("PORT")
+	channelID := os.Getenv("LINE_CHANNEL_ID")
+	channelSecret := os.Getenv("LINE_CHANNEL_SECRET")
+	mid := os.Getenv("LINE_MID")
 
     if port == "" {
         log.Fatal("$PORT must be set")
@@ -33,9 +36,9 @@ func main() {
         client := &http.Client{
             Transport: &http.Transport{Proxy: http.ProxyURL(proxyURL)},
         }
-
-        bot, err := linebot.NewClient(<Your Channel ID>,"<Your Channel Secret>","<Your MID>", linebot.WithHTTPClient(client))
-        if err != nil {
+	    
+	    bot, err := linebot.NewClient(channelID, channelSecret, mid, linebot.WithHTTPClient(client))
+	    if err != nil {
             fmt.Println(err)
             return
         }
