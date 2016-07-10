@@ -13,7 +13,7 @@ import (
 
 func main() {
 	port := os.Getenv("PORT")
-	channelID := os.Getenv("LINE_CHANNEL_ID")
+	//var channelID = os.Getenv("LINE_CHANNEL_ID")
 	channelSecret := os.Getenv("LINE_CHANNEL_SECRET")
 	mid := os.Getenv("LINE_MID")
 
@@ -37,7 +37,7 @@ func main() {
             Transport: &http.Transport{Proxy: http.ProxyURL(proxyURL)},
         }
 	    
-	    bot, err := linebot.NewClient(channelID, channelSecret, mid, linebot.WithHTTPClient(client))
+	    bot, err := linebot.NewClient(1465666447, channelSecret, mid, linebot.WithHTTPClient(client))
 	    if err != nil {
             fmt.Println(err)
             return
