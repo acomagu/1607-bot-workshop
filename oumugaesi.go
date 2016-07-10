@@ -32,7 +32,7 @@ func main() {
 
     //この処理を追記
     router.POST("linebot/callback", func(c *gin.Context) {
-        proxyURL, _ := url.Parse(os.Getenv("proxyURL"))
+        proxyURL, _ := url.Parse(os.Getenv("FIXIE_URL"))
         client := &http.Client{
             Transport: &http.Transport{Proxy: http.ProxyURL(proxyURL)},
         }
