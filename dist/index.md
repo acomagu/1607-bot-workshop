@@ -11,7 +11,7 @@
 - [返信してみる](https://youtu.be/ENQbSBIqpLo)
 - [リファクタリングをする1](https://www.youtube.com/watch?v=bfgRyhd03HI)
 - [クイズを出題してみる](https://youtu.be/phcBCnlr6WI)
-- 回答の判定と、それに応じた返信をする
+- [クイズを増やす](https://youtu.be/xhmLmjoY13k)
 - ユーザーごとにStateを分ける
 - リファクタリングをする2
 
