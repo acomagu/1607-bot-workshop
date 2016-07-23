@@ -9,7 +9,7 @@
 - [LINEからのリクエストを受け取ってみる](https://youtu.be/T379mEWL-9Y)
 - [受け取った文字列を表示してみる](https://youtu.be/1mMAw6RL6TQ)
 - [返信してみる](https://youtu.be/ENQbSBIqpLo)
-- リファクタリングをする1
+- [リファクタリングをする1](https://www.youtube.com/watch?v=bfgRyhd03HI)
 - クイズを出題してみる
 - 回答の判定と、それに応じた返信をする
 - ユーザーごとにStateを分ける
