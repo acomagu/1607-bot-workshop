@@ -7,7 +7,7 @@
 - [FIXIEを設定しよう&LINE APIのCallback URLを設定する](https://youtu.be/Durepw6nXF8)
 - [自分のLINEアカウントの鍵情報をHerokuの環境変数に設定する](https://youtu.be/RIh-m7QBoeM)
 - [LINEからのリクエストを受け取ってみる](https://youtu.be/T379mEWL-9Y)
-- 受け取った文字列を表示してみる(準備中)
+- [受け取った文字列を表示してみる](https://youtu.be/1mMAw6RL6TQ)
 - [返信してみる](https://youtu.be/ENQbSBIqpLo)
 - リファクタリングをする1
 - クイズを出題してみる
