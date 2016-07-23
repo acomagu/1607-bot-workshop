@@ -14,3 +14,7 @@
 - 回答の判定と、それに応じた返信をする
 - ユーザーごとにStateを分ける
 - リファクタリングをする2
+
+## 参考資料
+- Kurouw-Reference(くろがねくんが書いた用語集)
+  - [PDF](https://github.com/acomagu/1607-bot-workshop/blob/master/dist/Bot%E5%8B%89%E5%BC%B7%E4%BC%9A.pdf)
