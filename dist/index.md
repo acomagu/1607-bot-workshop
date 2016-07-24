@@ -13,7 +13,7 @@
 - [クイズを出題してみる](https://youtu.be/phcBCnlr6WI)
 - [クイズを増やす](https://youtu.be/xhmLmjoY13k)
 - [ユーザーごとにStateを分ける](https://youtu.be/CzlfL6Gowm0)
-- リファクタリングをする2
+- [リファクタリングをする2](https://www.youtube.com/watch?v=HAGVpPtvmHE)
 
 ## 参考資料
 - Kurouw-Reference(くろがねくんが書いた用語集)
