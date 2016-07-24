@@ -12,7 +12,7 @@
 - [リファクタリングをする1](https://www.youtube.com/watch?v=bfgRyhd03HI)
 - [クイズを出題してみる](https://youtu.be/phcBCnlr6WI)
 - [クイズを増やす](https://youtu.be/xhmLmjoY13k)
-- ユーザーごとにStateを分ける
+- [ユーザーごとにStateを分ける](https://youtu.be/CzlfL6Gowm0)
 - リファクタリングをする2
 
 ## 参考資料
