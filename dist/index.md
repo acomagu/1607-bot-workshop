@@ -19,3 +19,6 @@
 - Kurouw-Reference(くろがねくんが書いた用語集)
     - [PDF](https://github.com/acomagu/1607-bot-workshop/blob/master/dist/Bot%E5%8B%89%E5%BC%B7%E4%BC%9A.pdf)
     - [Qiita](http://qiita.com/kurouw/private/3939032b3aae867f4ff0)
+	
+## GOlang O/RM
+- [Go orm](http://qiita.com/jyagaimo_qiita_/items/707b53722b42e8c6eae9)
