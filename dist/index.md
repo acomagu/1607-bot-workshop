@@ -4,6 +4,7 @@
 
 ## 動画
 - [GO言語でHello, worldと環境変数の設定](https://www.youtube.com/watch?v=ME481U3ZH_8)
+- [Herokuでアプリケーションを作成する](https://www.youtube.com/watch?v=VruoddpcP5A)
 - [FIXIEを設定しよう&LINE APIのCallback URLを設定する](https://youtu.be/Durepw6nXF8)
 - [自分のLINEアカウントの鍵情報をHerokuの環境変数に設定する](https://youtu.be/RIh-m7QBoeM)
 - [LINEからのリクエストを受け取ってみる](https://youtu.be/T379mEWL-9Y)
