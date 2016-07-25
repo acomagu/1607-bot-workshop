@@ -1,7 +1,5 @@
 # Bot合宿
 
-資料です。
-
 ## 動画
 - [GO言語でHello, worldと環境変数の設定](https://www.youtube.com/watch?v=ME481U3ZH_8)
 - [Herokuでアプリケーションを作成する](https://www.youtube.com/watch?v=VruoddpcP5A)
