@@ -1,6 +1,6 @@
 # Bot合宿
 
-[イベントページ](https://www.facebook.com/events/623596797795160)
+資料です。
 
 ## 動画
 - [GO言語でHello, worldと環境変数の設定](https://www.youtube.com/watch?v=ME481U3ZH_8)
